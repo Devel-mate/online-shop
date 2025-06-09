@@ -1,0 +1,9 @@
+env
+myshop/myshop/.env
+myshop/myshop/settings.py
+myshop/myshop/__pycache__/
+myshop/dbsqlite3
+myshop/static/
+myshop/shop/static/
+*.log
+**/*.env
